@@ -1,0 +1,7 @@
+n_time_steps: 1000000
+environmental_bias: [0, 0]
+noise_std: 40
+decay_rate: 0.01
+weight_threshold: 0.5
+cat_size: 50
+frame_interval: 10
